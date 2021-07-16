@@ -42,7 +42,7 @@ Make sure the CodeShip GitHub app is installed on your GitHub organization that 
 
 #### Reinstall GitHub App
 
-To reset the installation, you can uninstall and reinstall the app. Under the same _Configure_ page as above, scroll to the bottom and click the _Uninstall_ button. Once GitHub finishes removing the app, you can [install](https://github.com/apps/codeship/installations/new) it in your organization again.
+To reset the installation, you can uninstall and reinstall the app. Under the same _Configure_ page as above, scroll to the bottom and click the _Uninstall_ button. Once GitHub finishes removing the app, you can [install](https://github.com/apps/cloudbees/installations/new) it in your organization again.
 
 ### GitLab
 
